@@ -45,8 +45,8 @@ The dataset includes **6435 weekly records** with the following features:
   `Mess_ID`, `Is_Holiday`, `Temperature`, `Menu_Score`, `Event_Intensity_Index`, `Stress_Level`
   
 - **Evaluation Metrics:**
-  - 📈 R² Score: `0.9685` 
-  - 📉 MSE: `~1,025,000`
+  -  R² Score: `0.9685` 
+  -  MSE: `~1,025,000`
 
 > The model predicts weekly crowd with high accuracy and can be used in real scenarios to manage food and staff planning.
 
@@ -74,7 +74,7 @@ The dataset includes **6435 weekly records** with the following features:
 
 ##  Demo Video
 
- [Click here to watch the video](https://drive.google.com/your_demo_link)  
+ [Click here to watch the video]( https://drive.google.com/file/d/18naJDE46b_YJNujlbhShlZ9Lt8AStzPI/view?usp=sharing)  
 *Explains the approach, graphs, and model output in 2 minutes.*
 
 ---
